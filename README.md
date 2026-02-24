@@ -35,7 +35,7 @@ If-elif checks – high Resp_Rate always alerts; low Resp_Rate requires SpO2 con
 <img width="1518" height="334" alt="logic RR 4" src="https://github.com/user-attachments/assets/e5dabc33-77ff-4afb-8faa-6ba4e3851962" />
 
 <b>Why This Reduces False Alarms:</b>
-- Isolated Resp-Rate = 6 with SpO2 = 98% >>> no low-RR alarm (likely artifact).
+- Isolated Resp_Rate = 6 with SpO2 = 98% >>> no low-RR alarm (likely artifact).
 - Resp_Rate = 6 with SpO2 = 84% >>> triggers dangerously low RR alert (likely real hypoventilation).
 - Any SpO2 <90% alerts independently (hypoxemia is dangerous even with normal RR).
 

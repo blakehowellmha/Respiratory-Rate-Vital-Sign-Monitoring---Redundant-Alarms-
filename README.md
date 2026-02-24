@@ -15,7 +15,7 @@ Code prevents false alarms due to patient movement artifact or sensor problems b
 
 
 <h2>Overview</h2>
-Utlizing variables I created the patient location, alarm parameters, and the patient's vital signs. Then I utilized an infinate loop, simple if elif statements, along with f-strings to achieve the desired output notifications using the print function. All conditions are based off the patient's vital sign readings. Of course, the room number can be ammended. The alarm parameters are based off clinical norms, but are customizable depending on patient.
+Utlizing variables I created the patient location, alarm parameters, and the patient's vital signs. Then I utilized an infinate loop, simple if elif statements, along with f-strings to achieve the desired output notifications using the print function. All conditions are based off the patient's vital sign readings. Of course, the room number can be ammended. The alarm parameters are based off clinical norms, but are customizable depending on patient needs.
 <img width="1514" height="751" alt="Overview RR 5" src="https://github.com/user-attachments/assets/9f85f980-136c-4b0d-abb2-6b93c4594fe9" />
 
 <h2>Walkthrough</h2>
